@@ -1,10 +1,6 @@
 ---
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
-  - text: Blog
+  - text: My Resume ⤵️
+    url: "https://drive.google.com/uc?export=download&id=1-4yD_8yyfBZ7nwd3PdZB9z5rxXy_UHbc"
+  - text: Blog 👨‍💻
     url: "/blog"
